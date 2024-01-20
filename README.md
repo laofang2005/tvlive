@@ -1,5 +1,13 @@
 <p align="center"><img alt="https://weibo.com/wj0321" src="https://gitea.com/w6566/data/raw/branch/main/icon/wj-logo.png"></p>
 <h2 align="center">💎 永久免费 丰富点播 多线直播 支持IPv4/IPv6双栈访问 💎</h2>
+<p align="center">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/w6566/tvlive?style=flat-square">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/w6566/tvlive?style=flat-square">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/w6566/tvlive?style=flat-square">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/w6566/tvlive?style=flat-square">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/w6566/tvlive?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/w6566/tvlive?style=flat-square">
+</p>
 
 
 
@@ -117,7 +125,15 @@
 ### 📖声明：
 - 资源来源于网络，不对内容的真实性负责，仅供学习交流。
 
+### ⭐星图:
 
+<!-- ![Stargazers over time](https://starchart.cc/w6566/tvlive.svg) -->
+
+<!-- ![Stargazers repo roster for @w6566/tvlive](https://reporoster.com/stars/w6566/tvlive) -->
+
+<!-- ![Star History Chart](https://api.star-history.com/svg?repos=w6566/tvlive&type=Date) -->
+
+<img src="https://api.star-history.com/svg?repos=w6566/tvlive&type=Date" onerror="this.src=&apos;https://starchart.cc/w6566/tvlive.svg&apos;"/>
 
 ### 📱联系：
 - [Sina微博@·王健·](https://weibo.com/wj0321)
